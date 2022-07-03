@@ -51,9 +51,7 @@ Docker sorunsuz bir şekilde çalıştıktan sonra sunucuya ait IP adresi ile Ju
 
 `public_IPV4:8888`
 
-<img src="ec2\assets\ec2-1.jpg" width="300">
-
-![](ec2\assets\ec2-1.jpg)
+![](assets/ec2-1.jpg)
 
 <br>
 

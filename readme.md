@@ -33,7 +33,7 @@ git clone https://github.com/silverstone1903/aws-101
 <br>
 
 ### EC2
-[EC2 ile sunucu oluşturma](ec2/ec2-con.md) \
+[EC2 ile sunucu oluşturma](ec2/ec2-launch.md) \
 [EC2 ile oluşturulan sunucuya bağlanılması](ec2/ec2-con.md) \
 [EC2 ile Docker kullanarak RStudio kurulumu](ec2/rstudio.md) \
 [EC2 ile Docker kullanarak JupyterLab kurulumu](ec2/jupyter.md) 
