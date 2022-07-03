@@ -9,7 +9,7 @@ AWS 101
 </p>
 Amazon Web Services eğitimi uygulama notları.
 
-2 Temmuz 2022 Cumartesi günü Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik bölümü lisans öğrencileri ile AWS 101 eğitimi yapılmıştır. Sunumuna [buradan](presentation\aws-intro.pdf) ulaşabilirsiniz. 
+2 Temmuz 2022 Cumartesi günü Mimar Sinan Güzel Sanatlar Üniversitesi İstatistik bölümü lisans öğrencileri ile AWS 101 eğitimi yapılmıştır. Sunumuna [buradan](presentation/aws-intro.pdf) ulaşabilirsiniz. 
 </center>
 
 
@@ -41,7 +41,7 @@ git clone https://github.com/silverstone1903/aws-101
 <br>
 
 ### RDS
-[RDS ile PostgreSQL Free-Tier DB Oluşturulması](rds/rds-launch.md)
+[RDS ile PostgreSQL Free-Tier DB Oluşturulması](rds/rds-launch.md) \
 [RDS ile oluşturulan DB'ye veri atılması](rds/rds-insert.md)
 
 <br>

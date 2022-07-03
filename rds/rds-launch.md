@@ -39,7 +39,7 @@ Tüm ayarlar aşağıda görsellerdeki gibiyse **Create database** butonuna tık
 
 [![name](assets/rds_5.png)](assets/rds_5.png)
 
-*View Credential Details 👇🏻*
+*View Credential Details 👇🏻* <br>
 ![](assets/rds_auth.png)
 
 DB'yi silmek istediğinizde **RDS -> Databases** altından oluşturduğunuz DB'yi seçip Actions altından Delete demeniz yeterli. Silmeden önce DB'nin en güncel hakline ait yedek (snapshot) almak isteyip istemediğinizi soracak. *Create final snapshot* kutucuğunu boş bırakıp *I acknowledge that upon instance deletion, automated backups, including system snapshots and point-in-time recovery, will no longer be available.* kutucuğunu işaretleyerek altta bulunan kutucuğa **delete me** yazarak silme işlemini onaylayın ve sonra **Delete** butonuna tıklayın.

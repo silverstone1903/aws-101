@@ -1,4 +1,4 @@
-[ec-launch](ec2-launch.md) ile Amazon AMI kullanan bir sunucu oluşturduysanız bağlanmak için aşağıdaki yönergeleri takip edebilirsiniz.
+[EC2 ile sunucu oluşturulması](ec2-launch.md)ndan faydalanarak Amazon AMI kullanan bir sunucu oluşturduysanız bağlanmak için aşağıdaki yönergeleri takip edebilirsiniz.
 
 ### Linux/Mac Kullanıcıları 
 
@@ -99,4 +99,5 @@ User Data için;
 curl http://169.254.169.254/latest/user-data
 ```
 
+> Sunucuya erişirken hata alıyorsanız **Security Groups** altından ilgili portlar (22) için izinleri kontrol edin!.
 > ## Çalışmanız bittikten sonra **Instances** sekmesi altından sunucuyu kapatmayı (Terminate) unutmayın!

@@ -28,6 +28,9 @@ Herhangi bir hata almadıysanız sunucu oluşturulmaya başlandı (yaklaşık 2 
 Oluşturduğunuz sunucuya bağlanmak için [EC2 ile oluşturulan sunucuya bağlanılması](ec2-launch.md) içeriğine göz atabilirsiniz.
 
 
+> Sunucuya erişirken hata alıyorsanız **Security Groups** altından ilgili portlar (22) için izinleri kontrol edin!.
+> ## Çalışmanız bittikten sonra **Instances** sekmesi altından sunucuyu kapatmayı (Terminate) unutmayın!
+
 --- 
 
 EC2 sunucusunun nasıl oluşturulduğuna dair örnek [video](https://youtu.be/Ax37MO6nE2w?t=790)
