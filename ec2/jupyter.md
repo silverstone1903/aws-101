@@ -42,17 +42,25 @@ JupyterLab kurulumu için aşağıdaki komutları çalıştırılır. Diğer Doc
 
 ```bash
 docker run -p 8888:8888 jupyter/datascience-notebook
+# durdurmak için CTRL + C
 ```
+
+
 
 Docker sorunsuz bir şekilde çalıştıktan sonra sunucuya ait IP adresi ile JupyterLab'e erişilir.
 
 `public_IPV4:8888`
+
+<img src="ec2\assets\ec2-1.jpg" width="300">
+
+![](ec2\assets\ec2-1.jpg)
 
 <br>
 
 ```bash
 # Docker volume kullanılarak JupyterLab'in lokal dosyalara ulaşması sağlanır.
  docker run --name jupyter -p 8888:8888 -v "${PWD}":/home/jovyan/work jupyter/datascience-notebook
+ # durdurmak için CTRL + C
 ```
 <br>
 
@@ -61,3 +69,6 @@ Son olarak çalışma bittikten sonra docker container durdurulur.
 ```bash
 docker stop jupyter
 ```
+
+> Docker çalışıyor olmasına rağmen JupyterLab'e erişemiyorsanız **Security Groups** altından ilgili portlar için izinleri kontrol edin!.
+> ## Çalışmanız bittikten sonra **Instances** sekmesi altından sunucuyu kapatmayı (Terminate) unutmayın!

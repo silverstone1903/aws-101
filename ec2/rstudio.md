@@ -53,6 +53,7 @@ Docker sorunsuz bir şekilde çalıştıktan sonra sunucuya ait IP adresi ile RS
 ```bash
 # Docker volume kullanılarak RStudio'nun lokal dosyalara ulaşması sağlanır.
 docker run --name rstudio -d -e PASSWORD=sifreniz -p 8787:8787 -v /home/ec2-user/:/home/rstudio/rstudio_docker rocker/tidyverse 
+
 ```
 <br>
 
@@ -61,3 +62,6 @@ Son olarak çalışma bittikten sonra docker container durdurulur.
 ```bash
 docker stop rstudio
 ```
+
+> Docker çalışıyor olmasına rağmen JupyterLab'e erişemiyorsanız **Security Groups** altından ilgili portlar için izinleri kontrol edin!.
+> ## Çalışmanız bittikten sonra **Instances** sekmesi altından sunucuyu kapatmayı (Terminate) unutmayın!
