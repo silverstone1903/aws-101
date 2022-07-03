@@ -25,7 +25,7 @@
 
 Herhangi bir hata almadıysanız sunucu oluşturulmaya başlandı (yaklaşık 2 dakika içinde sunucu ayağa kalkacaktır). Instances sekmesine giderek sunucunun durumunu kontrol edebilirsiniz. **Instance State** Running ve **Status check** sekmesinde 2/2 checks passed yazısını gördüyseniz eğer sunucunuz başarıyla oluşturulmuş demektir.
 
-Oluşturduğunuz sunucuya bağlanmak için [EC2 ile oluşturulan sunucuya bağlanılması](ec2-launch.md) içeriğine göz atabilirsiniz.
+Oluşturduğunuz sunucuya bağlanmak için [EC2 ile oluşturulan sunucuya bağlanılması](ec2-con.md) içeriğine göz atabilirsiniz.
 
 
 > Sunucuya erişirken hata alıyorsanız **Security Groups** altından ilgili portlar (22) için izinleri kontrol edin!.
