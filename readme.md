@@ -14,7 +14,7 @@ Amazon Web Services eğitimi uygulama notları.
 
 
 * [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders) 
-    * Başvuru [link'i](https://amazonmr.au1.qualtrics.com/jfe/form/SV_0k2OKbXiDwINdsO) (1-17 Temmuz arası)
+    * ~~Başvuru [link'i](https://amazonmr.au1.qualtrics.com/jfe/form/SV_0k2OKbXiDwINdsO) (1-17 Temmuz arası)~~
 
 * [dev.to AWS CB](https://dev.to/aws-builders)
 * [AWS Free Tier](https://aws.amazon.com/tr/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)

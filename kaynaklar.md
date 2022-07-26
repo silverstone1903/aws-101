@@ -12,3 +12,4 @@
 10. [AWS Certified DevOps Engineer | Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOE5SXbik4_EVVjpx9qG3CBb)
 11. [DevOps Training Videos | Edureka Live Classes](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHkvrlMQ3UapEgsC-hOYTPQ)
 12. [AWS Solutions Architect – Associate (SAA-C02) Certification Preparation for AWS](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-certification-preparation-for-aws-2021-1-2977/)
+13. [AWS Certified Solutions Architect Associate 2021 Series with Visual Explanations - SAA-C02](https://www.youtube.com/watch?v=2tAN9FUzCmw&list=PLiH9_MU-6RjI9gdFqmvUfKRfw_zRxIb6o)
